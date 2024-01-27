@@ -7,7 +7,7 @@
 }
 
 body {
-  height: 100dvh;
+  height: 100svh;
   display: flex;
   font-family: "Roboto", sans-serif;
 }
